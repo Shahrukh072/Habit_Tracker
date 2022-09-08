@@ -1,0 +1,29 @@
+{
+  "name": "habit_tracker",
+  "version": "1.0.0",
+  "description": "habit tracking app based on Nodejs + EJS for user habit management on daily bases",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahrukh072/Habit_Tracker.git"
+  },
+  "author": "Shahrukh",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.5.4" 
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
