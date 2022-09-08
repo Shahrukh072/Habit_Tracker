@@ -19,7 +19,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/habit-tracker.git`
+`git clone https://github.com/Shahrukh072/habit_tracker`
 
 ##### Into the project directory
 
@@ -33,7 +33,7 @@
 
 `npm start`
 
-#### The Server should now be running at http://localhost:3000/
+#### The Server should now be running at http://localhost:8080/
 
 ## Folder Structure
 
