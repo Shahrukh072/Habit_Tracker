@@ -1,7 +1,7 @@
 # habit_tracker
 > A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
 
-![Screenshot (283)](https://user-images.githubusercontent.com/49118089/bandicam 2022-09-08 16-13-32-530.png)
+![Screenshot (283)](https://user-images.githubusercontent.com/49118089/bandicam 2022-09-08 16-13-32-530.jpg)
 
 ## Technologies Used
 1.  NodeJS
